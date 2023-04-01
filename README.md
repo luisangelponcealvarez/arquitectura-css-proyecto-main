@@ -5,13 +5,10 @@ Proyecto del curso de Arquitectura CSS de **Alura LATAM**, este proyecto es la p
 
 El proyecto fue realizado aplicando la metodología **Atomic Desing** creando un archivo para cada CSS, manteniendo así nuestros códigos cortos y facilitando el mantenimiento, también utilizamos la metodología **BEM** para nombrar las clases dentro del proyecto. 
 
+## Miniatura del proyecto
 
-## Comenzando 🚀
+![ArqutecturaCss](./assets/img/miniatura.jpeg)
 
-Este repositorio contiene varias Branch, como este proyecto fue realizado para el curso de arquitectura CSS, en cada clase fue desarrollado el código de una sección del proyecto.
+## Visita el sitio 
 
-Cada Branch esta identificada con el nombre aula y el numero del aula correspondiente. 
-
-Ejemplo:  **aula-1**
-
-*En la rama principal (main) se encuentra el código completo del proyecto.*
+[site](https://luisangelponcealvarez.github.io/arquitectura-css-proyecto-main/)
